@@ -62,6 +62,7 @@ Canvas Age：入画时代，
 Castorice：遐蝶，
 Castrum：悬锋，
 Castrum Kremnos：悬锋城，
+Castrum’s：悬锋的，
 Celenova：星啸，
 Central Starskiff Haven：星槎海中枢，
 Century Doors：百界门，
@@ -180,6 +181,8 @@ Khaslana：卡厄斯兰那，
 Knight of Beauty：纯美骑士，
 Krateros：克拉特鲁斯，
 Kremnoans：悬锋人，
+Kremnoan：悬锋，
+Kremnos：悬锋，
 Kukiye：朽叶，
 Ladon：拉冬，
 Lan：岚，
