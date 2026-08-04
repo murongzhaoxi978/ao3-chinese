@@ -1,0 +1,393 @@
+版本号：1.0.0
+维护者：someone
+更新时间：2026-08-03
+ 
+词条
+ // 此区域区分大小写，用于翻译人名等专有名词
+A Child's Dream：稚子的梦，
+Abyss of Fate：命运重渊，
+Acheron：黄泉，
+Adlivun：亚德丽芬，
+Ahatopia：哈托彼亚，
+Aidonia：哀地里亚，
+Akivili：开拓，
+Alchemy Commission：丹鼎司，
+Amicassador：接渡使，
+Amphoreous：翁法罗斯，
+Amphoreus：翁法罗斯，
+Ambrosial Arbor：建木，
+Anaxa：那刻夏，
+Anaxagoras：阿那克萨戈拉斯，
+Annihilation Gang：泯灭帮，
+Antimatter Legion：反物质军团，
+Archforger：铸王，
+Argenti：银枝，
+Arlan：阿兰，
+Artisanship Commission：工造司，
+Asat Pramad：归寂，
+Asdana：阿斯德纳，
+Asta：艾丝妲，
+Astral Express：星穹列车，
+Audata：奥妲塔，
+Aurum Alley：金人巷，
+Aventurine：砂金，
+Aya：阿雅，
+Aeon：星神，
+Aeons：星神，
+Agate：玛瑙，
+Aglaea：阿格莱雅，
+Agy：阿雅，
+Aha：欢愉，
+Aha the Elation：欢愉星神，
+Aquila：艾格勒，
+Backwater Pass：边缘通路，
+Baiheng：白珩，
+Bailu：白露，
+Bartholos：巴特鲁斯，
+Base Zone：基座舱段，
+Beagle Coconut：比格椰，
+Belobog：贝洛伯格，
+Benzaitengoku：古弁才天国，
+Black Swan：黑天鹅，
+Blade：刃，
+Boothill：波提欧，
+Bough of Rift：裂分之枝，
+Boulder Town：磐岩镇，
+Bronya：布洛妮娅，
+Bronya Rand：布洛妮娅・兰德，
+Caelus：穹，
+Caenis：凯妮斯，
+Calypso：卡吕普索，
+Canvas Age：入画时代，
+Castorice：遐蝶，
+Castrum：悬锋，
+Castrum Kremnos：悬锋城，
+Celenova：星啸，
+Central Starskiff Haven：星槎海中枢，
+Century Doors：百界门，
+Cerces：瑟希斯，
+Cerydra：刻律德菈，
+Chalice of Plenty：满溢之杯，
+Chartonus：哈托努斯，
+ChrysalisofGold：黄金之茧，
+Chrysos Heirs：黄金裔，
+Cipher：赛飞儿，
+Cifera：赛法利娅，
+Clara：克拉拉，
+Clock Studios Theme Park：克劳克影视乐园，
+Clockie：钟表小子，
+Clockiiiee：钟表小子，
+Cloudford：流云渡，
+Cloud Knights：云骑军，
+Coin of Whimsy：翻飞之币，
+Complainer：说怪话，
+Consternation Starzone：失魂星域，
+Cornerstone：基石，
+Corridor of Fading Echoes：残响回廊，
+Crown Prince：王储，
+Cyrene：昔涟，
+Dan Heng：丹恒，
+Dan Heng・Imbibitor Lunae：丹恒・饮月，
+Danfeng：丹枫，
+Dawnmaker：侵晨，
+Demiurge：德谬歌，
+Denizens of Abundance：丰饶民，
+Dewlight Pavilion：朝露公馆，
+Divination Commission：太卜司，
+Dovebrook District：鸽川区，
+Dr. Ratio：真理医生，
+Dream's Edge：筑梦边境，
+Duomension City：二维市，
+Dux Gladiorum：剑旗爵，
+Earth：大地，
+Elation：欢愉，
+Elio：艾利欧，
+Elysiae：哀丽秘榭，
+Emanator：令使，
+Evanescia：绯英，
+Evernight：长夜月，
+Everwinter Hill：永冬岭，
+Exalting Sanctum：长乐天，
+Eye of Twilight：晨昏之眼，
+Fainón：白厄，
+Feixiao：飞霄，
+Fig Stew：蜜果羹，
+Firefly：流萤，
+Flame-Chase：逐火之旅，
+Flame Chase：逐火之旅，
+Flame Reaver：盗火行者，
+Fu Xuan：符玄，
+Fugue：忘归人，
+Fuli：记忆，
+Fyxestroll Garden：绥园，
+Galaxy Rangers：巡海游侠，
+Gallagher：加拉赫，
+Garden of Recollection：流光忆庭，
+Garmentmaker：衣匠，
+Gate of Infinity：万径之门，
+Genius Society：天才俱乐部，
+Georios：吉奥里亚，
+Gepard：杰帕德，
+Gepard Landau：杰帕德・朗道，
+Gnaeus：格奈乌斯，
+God：神，
+Golden Hour：黄金的时刻，
+Goldweaver：金织，
+Gorgo：歌耳戈，
+Graphia Academy：绘世学院，
+Great Mine：大矿区，
+Grove：神悟树庭，
+Guinaifen：桂乃芬，
+Hand of Shadow：灰黯之手，
+Hanya：寒鸦，
+Helektra：海列屈拉，
+Hephaestion：赫菲斯辛，
+Herta：黑塔，
+Herta Space Station：黑塔空间站，
+Himeko：姬子，
+History Fictionologists：虚构史学家，
+HooH：均衡，
+Hook：虎克，
+Huaiyan：怀炎，
+Hunt：巡猎，
+Huohuo：藿藿，
+Hyacine：风堇，
+Hyacinthia：雅辛忒丝，
+Hysilens：海瑟音，
+Idrila：纯美，
+Idrilla：伊德莉拉，
+Imagenae：幻造种，
+Imbibitor Lunae：饮月君，
+Intelligentsia Guild：博识学会，
+Interastral Peace Corporation：星际和平公司，
+IPC：公司，
+Irontomb：铁墓，
+IX：虚无，
+Jade：翡翠，
+Janus：雅努斯，
+Janusopolis：雅努萨波利斯，
+Jarilo-VI：雅利洛 -Ⅵ，
+Jatonus：哈托努斯，
+Jiaoqiu：椒丘，
+Jing Yuan：景元，
+Jingliu：镜流，
+Kafka：卡芙卡，
+Kakavasha：卡卡瓦夏，
+Kaosulana：卡厄斯兰那，
+Ken：坚，
+Kephale：刻法勒，
+Khaslana：卡厄斯兰那，
+Knight of Beauty：纯美骑士，
+Krateros：克拉特鲁斯，
+Kremnoans：悬锋人，
+Kukiye：朽叶，
+Ladon：拉冬，
+Lan：岚，
+Lance of Fury：天谴之矛，
+Landau：朗道，
+Law：律法，
+Leonnius：莱昂，
+Lingsha：灵砂，
+Little Gray：小灰，
+Little Ica：小伊卡，
+Long：不朽，
+Lord Ravager：绝灭大君，
+Lushanka：露卡莎，
+Luocha：罗刹，
+Luxbane：光逝，
+Lycurgus：吕枯耳戈斯，
+Lygus：来古士，
+Lyndon Skott：林登・斯科特，
+Lynx：玲可，
+Lynx Landau：玲可・朗道，
+Maiden of War：督战圣女，
+March 7th：三月七，
+Marmoreal：云石，
+Marmoreal Palace：云石天宫，
+Master：主人，
+Master Control Zone：主控舱段，
+Mem：迷迷，
+Misha：米沙，
+Mnestia：墨涅塔，
+Moze：貊泽，
+Mydei：万敌，
+Mydeimos：迈德漠斯，
+Nanook：毁灭，
+Natasha：娜塔莎，
+Nihilux：虚照，
+Nikador：尼卡多利，
+Nous：智识，
+Numby：账账，
+Obsidian：龙晶，
+Ocean：海洋，
+Okhema：圣城奥赫玛，
+Okhemans：奥赫玛，
+Opal：欧泊，
+Oroboros：贪饕，
+Oronyx：欧洛尼斯，
+Outlying Snow Plains：城郊雪原，
+Paperfold University College：折纸大学学院，
+Passage：门径，
+Path：命途，
+Pearl：真珠，
+Pela：佩拉，
+Penacony：匹诺康尼，
+Penacony Grand Theater：匹诺康尼大剧院，
+Pepeshi：皮皮西，
+Perdikkas：帕迪卡斯，
+Peucesta：朴塞塔，
+Phagousa：法吉娜，
+Phainon：白厄，
+Phantasmoon：幻月，
+Phantasmoon Games：幻月游戏，
+Phantylia：幻胧，
+Pier Point：庇尔波因特，
+Pillar of Stone：磐岩之脊，
+Pillars of Creation：造物之柱，
+POLEMOS：波勒摩斯，
+Polyxia：波吕茜亚，
+Pom-Pom：帕姆，
+princess homebody：蜗居公主，
+Punklorde：朋克洛德，
+Qingque：青雀，
+Qlipoth：存护，
+Radiant Feldspa：晖长石号，
+Rappa：乱破，
+Ratio：拉帝奥，
+Reignbow Arbiter：帝弓司命，
+Restricted Zone：铁卫禁区，
+Rivet Town：铆钉镇，
+Robin：知更鸟，
+Robot Settlement：机械聚落，
+Ruan Mei：阮・梅，
+Ryuuguji：龙宫寺，
+Sam：萨姆，
+Sampo：桑博，
+Sapphire：苍刚，
+Scale of Justice：公正之秤，
+Scalegorge Waterscape：鳞渊境，
+Screwllum：螺丝咕姆，
+Seele：希儿，
+Seliose：塞涅俄丝，
+Serval：希露瓦，
+Serval Landau：希露瓦・朗道，
+Silver Wolf：银狼，
+Sky-Faring：天舶司，
+Skysplitter：竞锋舰，
+Snowy：小白，
+SoulGlad™ Scorchsand Audition Venue：苏乐达™热砂海选会场，
+Sparkle：花火，
+Sparxie：火花，
+Stellaron：星核，
+Stellaron Hunters：星核猎手，
+Stelle：星，
+Stephen Lloyd：斯蒂芬・劳艾德，
+Stonehearts：石心，
+Storage Zone：收容舱段，
+Strife：纷争，
+Strife Ruins：纷争荒墟，
+Styxia：斯缇科西亚，
+Sugilite：舒俱，
+Sunday：星期日，
+Supply Zone：支援舱段，
+Sushang：素裳，
+Talanton：塔兰顿，
+Tayzzyronth：繁育，
+Terminus：终末，
+Thanatos：塞纳托斯，
+the Amber Lord：琥珀王，
+The Arbitrators：仲裁官，
+the Council：元老院，
+The Cremators：焚化工，
+The Demiurge’s：造物主，
+the era of the World in Canvas：画中世界，
+the honeycakes：黄金蜜饼，
+The Nameless：无名客，
+The Reverie：「白日梦」酒店，
+The Reverie (Dreamscape)：「白日梦」酒店 - 梦境，
+The Reverie (Reality)：「白日梦」酒店 - 现实，
+The Unshackled：不死途，
+The Xianzhou Alliance：仙舟联盟，
+The Xianzhou Luofu：仙舟「罗浮」，
+Throne of Worlds：全世之座，
+Time：岁月，
+Tingyun：停云，
+Titan：泰坦，
+Titankin：泰坦眷属，
+Topaz：托帕，
+Topaz & Numby：托帕 & 账账，
+Trailblazer：开拓者，
+Trailblaze's Stern：开拓之尾，
+Trianne：缇安，
+Triannon：缇宁，
+Tribbie：缇宝，
+Tribios：缇里西庇俄丝，
+Trickery：诡计，
+Twilight Pavilion：昏黄庭院，
+Veil of Evernight：永夜之帷，
+Verax Leo：真言狮口，
+Veritas：维里塔斯，
+Veritas Ratio：维里塔斯・拉帝奥，
+Vidyadhara：持明族，
+Vigethos：比格椰，
+Vortex of Genesis：创世涡心，
+Welt Yang：瓦尔特・杨，
+Wishpower：愿力，
+Wood Family：橡木家系，
+Worldbearing：负世，
+World's End Tavern：「世界尽头」酒馆，
+xianzhou：仙舟，
+Xipe：同谐，
+Xueyi：雪衣，
+Yanqing：彦卿，
+Yaoguang：爻光，
+Yaoshi：丰饶，
+Yelena：叶莲娜，
+Yingxing：应星，
+Your Grace：公爵，
+Yukong：驭空，
+Yunli：云璃，
+Zagreus：扎格列斯，
+Zandar One Kuwabara：赞达尔・壹・桑原，
+Zander：赞达尔，
+Zephyro：焚风，
+Zulo：诛罗，
+Мидей：万敌，
+Фаенон：白厄，
+
+通用词条
+//此区域不区分大小写，用于翻译通用概念
+ambrosia：蜜酿，
+balance coins：利衡币，
+chimera：奇美拉，
+chimeras：奇美拉，
+cycle：轮回，
+Dahlia：大丽花，
+Death：死亡，
+Deliverer：救世主，
+Diamond：钻石，
+dromas：大地兽，
+Figstew：蜜果羹，
+fleshlight：飞机杯，
+master diviner：太卜，
+mung bean soda：苏打豆汁儿，
+nymphs：若虫，
+pilot：领航员，
+plains bear cub：冰原熊幼崽，
+Reason：理性，
+Romance：浪漫，
+siren：塞壬，
+Sky：天空，
+
+禁翻词条
+//此区域区分大小写，用于保持原文
+Alpha
+alpha
+beta
+Beta
+omega
+Omega
+Enigma
+enigma
+Tiktok
+Fovos
