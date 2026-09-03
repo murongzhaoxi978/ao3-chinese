@@ -1,6 +1,6 @@
-版本号：1.0.1
+版本号：1.0.2
 维护者：someone
-更新时间：2026-08-04
+更新时间：2026-09-03
  
 词条
  // 此区域区分大小写，用于翻译人名等专有名词
@@ -36,6 +36,7 @@ Caelus：穹，
 Caenis：凯妮斯，
 Calypso：卡吕普索，
 Castorice：遐蝶，
+Cas:遐蝶，
 Celenova：星啸，
 Cerces：瑟希斯，
 Cerydra：刻律德菈，
@@ -247,6 +248,7 @@ Antimatter Legion：反物质军团，
 Artisanship Commission：工造司，
 Astral Express：星穹列车，
 Aurum Alley：金人巷，
+Aedes Elysiae:哀丽秘榭，
 Aeon：星神，
 Aeons：星神，
 Agate：玛瑙，
@@ -364,6 +366,7 @@ The Reverie (Reality)：「白日梦」酒店 - 现实，
 The Unshackled：不死途，
 The Xianzhou Alliance：仙舟联盟，
 The Xianzhou Luofu：仙舟「罗浮」，
+the Legion:泰坦万军，
 Throne of Worlds：全世之座，
 Titankin：泰坦眷属，
 itan：泰坦，
